@@ -9,7 +9,7 @@ function wpdocs_codex_todo_init() {
  $labels = array(
  	'name'          => _x( 'To-Do', 'Post type general name', 'textdomain' ),
  	'singular_name' => _x( '', 'Post type singular name', 'textdomain' ),
- 	'menu_name'     => _x( 'To-Do', 'Admin Menu text', 'textdomain' ),
+ 	'menu_name'		=> _x( 'To-Do', 'Admin Menu text', 'textdomain' ),
  'name_admin_bar' 	=> _x( 'To-DO', 'Add New on Toolbar', 'textdomain' ),
  'add_new' => __( 'Add New', 'textdomain' ),
  'add_new_item' => __( 'Add New List', 'textdomain' ),
